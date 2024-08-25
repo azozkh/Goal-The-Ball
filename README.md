@@ -34,3 +34,7 @@ Assets used in the project:
 •	Ghost character Free (ghost and I adjust the script and animation)
 •	Stylized Grass Texture (for the grass)
 
+
+
+WEBGL BUILDS 
+https://play.unity.com/en/games/1e83382b-adb8-4e5c-813a-c4b5a777a2de/webgl-builds
