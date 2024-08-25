@@ -13,8 +13,8 @@ Power-Ups: Collect power-ups to gain temporary advantages like increased speed o
 
 //Features
 
-Health and Damage System: A core mechanic where the player must manage health to survive.
-Power-Ups: Items that provide temporary boosts, such as speed or invulnerability to enemies or increasing health.
+Health and Damage System: player must manage health to survive.
+Power-Ups: Items that provide temporary boosts, such as speed or attack the enemies or increasing health.
 Level-Based Progression: Players progress through multiple levels, each increasing in difficulty.
 Dynamic AI: Enemies chase the player and react to power-ups.
 Forest Environment: forest setting with dynamic lighting.
